@@ -16,10 +16,8 @@ The **Dog Food App** is a mobile application designed to help dog owners find an
 ## 🛠️ Technologies Used
 - **Programming Language**: Java
 - **Development Tool**: Android Studio
-- **Database**: Firebase / SQLite (if applicable)
-- **Authentication**: Firebase Authentication (if applicable)
-- **Storage**: Firebase Storage (for product images, if applicable)
-- **API Integration**: Third-party APIs for product details or payment processing (if applicable)
+- **Database**: SQLite
+
 
 
 ## 🚀 Getting Started
