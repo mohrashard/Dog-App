@@ -21,30 +21,6 @@ The **Dog Food App** is a mobile application designed to help dog owners find an
 - **Storage**: Firebase Storage (for product images, if applicable)
 - **API Integration**: Third-party APIs for product details or payment processing (if applicable)
 
-## 📁 Project Structure
-The project follows an **MVVM (Model-View-ViewModel)** architecture for maintainability and scalability.
-
-
-/DogFoodApp
-│── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/dogfoodapp/
-│   │   │   │   ├── activities/      # UI screens (MainActivity, LoginActivity, etc.)
-│   │   │   │   ├── adapters/        # RecyclerView adapters
-│   │   │   │   ├── models/          # Data models
-│   │   │   │   ├── viewmodels/      # ViewModel classes for business logic
-│   │   │   │   ├── utils/           # Utility classes and helper functions
-│   │   │   │   ├── api/             # API handlers (if applicable)
-│   │   │   │   ├── database/        # Local database handling (if applicable)
-│   │   │   ├── res/
-│   │   │   │   ├── drawable/        # App icons and graphics
-│   │   │   │   ├── layout/          # XML layout files
-│   │   │   │   ├── values/          # Strings, colors, and themes
-│── build.gradle
-│── AndroidManifest.xml
-│── README.md
-
 
 ## 🚀 Getting Started
 
